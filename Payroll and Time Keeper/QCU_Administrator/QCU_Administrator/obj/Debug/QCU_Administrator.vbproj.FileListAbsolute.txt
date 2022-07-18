@@ -336,3 +336,7 @@ D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Administrator\QCU
 D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Administrator\QCU_Administrator\obj\Debug\QCU_Administrator.vbproj.GenerateResource.Cache
 D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Administrator\QCU_Administrator\obj\Debug\QCU_Administrator.exe.manifest
 D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Administrator\QCU_Administrator\obj\Debug\QCU_Administrator.application
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Administrator\QCU_Administrator\bin\Debug\QCU_Administrator.exe.config
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Administrator\QCU_Administrator\obj\Debug\QCU_Administrator.exe
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Administrator\QCU_Administrator\obj\Debug\QCU_Administrator.xml
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Administrator\QCU_Administrator\obj\Debug\QCU_Administrator.pdb

@@ -52,3 +52,11 @@ D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_At
 D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\MySql.Data.xml
 D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe.manifest
 D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.application
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe.config
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.xml
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.pdb
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbprojResolveAssemblyReference.cache
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.frmAttendanceMonitoring.resources
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.Resources.resources
+D:\[Dexter]\Github Files\Visual-Studio\Payroll and Time Keeper\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbproj.GenerateResource.Cache
