@@ -1,3 +1,6 @@
+**Username: admin<br>
+Password: admin**
+
 **Login.**</br>
 ![](https://github.com/dextermontero/Visual-Studio/blob/main/Screenshots/login.png)
 
