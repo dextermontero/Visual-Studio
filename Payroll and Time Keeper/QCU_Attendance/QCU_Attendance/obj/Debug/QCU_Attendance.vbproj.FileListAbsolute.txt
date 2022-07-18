@@ -1,0 +1,54 @@
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.frmAttendanceMonitoring.resources
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbproj.GenerateResource.Cache
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe.config
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.pdb
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.xml
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.Resources.resources
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.xml
+c:\users\a n o n y m o u s\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.pdb
+C:\Users\A N O N Y M O U S\Documents\Visual Studio 2015\Projects\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbprojResolveAssemblyReference.cache
+C:\Users\A N O N Y M O U S\Documents\Visual Studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\MySql.Data.DLL
+C:\Users\A N O N Y M O U S\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\Google.Protobuf.dll
+C:\Users\A N O N Y M O U S\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\A N O N Y M O U S\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\Renci.SshNet.dll
+C:\Users\A N O N Y M O U S\documents\visual studio 2015\Projects\QCU_Attendance\QCU_Attendance\bin\Debug\MySql.Data.xml
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe.config
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.xml
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.pdb
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.pdb
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.xml
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\Google.Protobuf.dll
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\Renci.SshNet.dll
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\MySql.Data.xml
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbprojResolveAssemblyReference.cache
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.frmAttendanceMonitoring.resources
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.Resources.resources
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbproj.GenerateResource.Cache
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe.manifest
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.application
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe.manifest
+C:\Users\L U I S I T O\Desktop\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.application
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbprojResolveAssemblyReference.cache
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.frmAttendanceMonitoring.resources
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.Resources.resources
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.vbproj.GenerateResource.Cache
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.xml
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.pdb
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe.config
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe.manifest
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.application
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.exe
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.pdb
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\QCU_Attendance.xml
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\Google.Protobuf.dll
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\BouncyCastle.Crypto.dll
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\Renci.SshNet.dll
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\bin\Debug\MySql.Data.xml
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.exe.manifest
+D:\[Dexter]\[Programming]\[Tools]\[Programming Files]\bago\QCU_Attendance\QCU_Attendance\obj\Debug\QCU_Attendance.application

@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F1FABABA-42B2-42A4-AAA1-37FE94F312E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QCU_Administrator.My.MyApplication</StartupObject>
+    <RootNamespace>QCU_Administrator</RootNamespace>
+    <AssemblyName>QCU_Administrator</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\L U I S I T O\Desktop\bago\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QCU_Administrator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QCU_Administrator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>qcuIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>02E6865E57E99F84CE588D9C96AAA7D1D47E71D7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>QCU_Administrator_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=8.0.18.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection\loadEmployeeAddSchedule.vb" />
+    <Compile Include="Connection\loadEmployeeSalary.vb" />
+    <Compile Include="Connection\loadInfoEmployee.vb" />
+    <Compile Include="Connection\MaintenanceSchedule.vb" />
+    <Compile Include="frmMaintenanceRoom.Designer.vb">
+      <DependentUpon>frmMaintenanceRoom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceSchedule.Designer.vb">
+      <DependentUpon>frmMaintenanceSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceSection.Designer.vb">
+      <DependentUpon>frmMaintenanceSection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceSection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceSubject.Designer.vb">
+      <DependentUpon>frmMaintenanceSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageAdmin.Designer.vb">
+      <DependentUpon>frmManageAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageSalary.Designer.vb">
+      <DependentUpon>frmManageSalary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageSalary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageSchedule.Designer.vb">
+      <DependentUpon>frmManageSchedule.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageSchedule.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceDepartment.Designer.vb">
+      <DependentUpon>frmMaintenanceDepartment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceDepartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenance.Designer.vb">
+      <DependentUpon>frmMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceCourse.Designer.vb">
+      <DependentUpon>frmMaintenanceCourse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceCourse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceEmployee.Designer.vb">
+      <DependentUpon>frmMaintenanceEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceLeave.Designer.vb">
+      <DependentUpon>frmMaintenanceLeave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceLeave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageEmployee.Designer.vb">
+      <DependentUpon>frmManageEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegisterAdministrator.Designer.vb">
+      <DependentUpon>frmRegisterAdministrator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegisterAdministrator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.vb">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubAddClass.Designer.vb">
+      <DependentUpon>frmSubAddClass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubAddClass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubAddEmployee.Designer.vb">
+      <DependentUpon>frmSubAddEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubAddEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubAddLeave.Designer.vb">
+      <DependentUpon>frmSubAddLeave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubAddLeave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection\Database.vb" />
+    <Compile Include="frmAdminDashboard.Designer.vb">
+      <DependentUpon>frmAdminDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountSettings.Designer.vb">
+      <DependentUpon>frmAccountSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginAdministrator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginAdministrator.Designer.vb">
+      <DependentUpon>frmLoginAdministrator.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManageLeave.Designer.vb">
+      <DependentUpon>frmManageLeave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmManageLeave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceYear.Designer.vb">
+      <DependentUpon>frmMaintenanceYear.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceYear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="validateEmployeeDelete.Designer.vb">
+      <DependentUpon>validateEmployeeDelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="validateEmployeeDelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validateMaintenanceDelete.Designer.vb">
+      <DependentUpon>validateMaintenanceDelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="validateMaintenanceDelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validateScheduleDelete.Designer.vb">
+      <DependentUpon>validateScheduleDelete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="validateScheduleDelete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmMaintenanceRoom.resx">
+      <DependentUpon>frmMaintenanceRoom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceSchedule.resx">
+      <DependentUpon>frmMaintenanceSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceSection.resx">
+      <DependentUpon>frmMaintenanceSection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceSubject.resx">
+      <DependentUpon>frmMaintenanceSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageAdmin.resx">
+      <DependentUpon>frmManageAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageSalary.resx">
+      <DependentUpon>frmManageSalary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageSchedule.resx">
+      <DependentUpon>frmManageSchedule.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceDepartment.resx">
+      <DependentUpon>frmMaintenanceDepartment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenance.resx">
+      <DependentUpon>frmMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceCourse.resx">
+      <DependentUpon>frmMaintenanceCourse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceEmployee.resx">
+      <DependentUpon>frmMaintenanceEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceLeave.resx">
+      <DependentUpon>frmMaintenanceLeave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageEmployee.resx">
+      <DependentUpon>frmManageEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegisterAdministrator.resx">
+      <DependentUpon>frmRegisterAdministrator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubAddClass.resx">
+      <DependentUpon>frmSubAddClass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubAddEmployee.resx">
+      <DependentUpon>frmSubAddEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubAddLeave.resx">
+      <DependentUpon>frmSubAddLeave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminDashboard.resx">
+      <DependentUpon>frmAdminDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountSettings.resx">
+      <DependentUpon>frmAccountSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginAdministrator.resx">
+      <DependentUpon>frmLoginAdministrator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManageLeave.resx">
+      <DependentUpon>frmManageLeave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceYear.resx">
+      <DependentUpon>frmMaintenanceYear.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="validateEmployeeDelete.resx">
+      <DependentUpon>validateEmployeeDelete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="validateMaintenanceDelete.resx">
+      <DependentUpon>validateMaintenanceDelete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="validateScheduleDelete.resx">
+      <DependentUpon>validateScheduleDelete.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="QCU_Administrator_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\header.png" />
+    <None Include="img\employee.png" />
+    <None Include="img\default.png" />
+    <None Include="img\administrator.png" />
+    <None Include="img\printer.png" />
+    <None Include="img\QCU_Logo_2019.png" />
+    <None Include="img\search.png" />
+    <None Include="img\account-edit.png" />
+    <None Include="img\add.png" />
+    <None Include="img\cancel.png" />
+    <None Include="img\header_name.png" />
+    <None Include="img\department.png" />
+    <None Include="img\add_subject.png" />
+    <None Include="img\unknown.png" />
+    <None Include="img\schedule.png" />
+    <None Include="img\leave.png" />
+    <Content Include="qcuIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>False</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
